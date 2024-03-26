@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "地图地址.png"
   name             : "Xitao Qiao"
   pronouns         : # example: "she/her"  
   bio              : "Trust Yourself and Chase Your Dream Forever"
