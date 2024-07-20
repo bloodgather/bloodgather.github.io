@@ -34,8 +34,8 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  linkedin         : "www.linkedin.com/in/xitaoqiao"
+  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/xitaoqiao/"
   researchgate     : # URL
 
   # Repositories and software development
